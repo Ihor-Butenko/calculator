@@ -9,7 +9,19 @@
 <body>
     <?php
     
-        $_COOKIE['log'];
+        $_COOKIE['Log'];
+
+        function(){
+
+          public postValidation(){
+
+                $_POST['helloWorld']{
+                    echo "$_POST";
+                }
+
+          }
+
+        }
     
     ?>    
 </body>
