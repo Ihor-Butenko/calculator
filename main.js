@@ -1,0 +1,1 @@
+const counterDisplay = 0;
