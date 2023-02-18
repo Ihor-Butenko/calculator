@@ -10,6 +10,18 @@
     <?php
     
         $_COOKIE['log'];
+
+        function(){
+
+          public postValidation(){
+
+                $_POST['helloWorld']{
+                    echo "$_POST";
+                }
+
+          }
+
+        }
     
     ?>    
 </body>
